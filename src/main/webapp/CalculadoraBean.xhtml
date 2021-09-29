@@ -10,10 +10,11 @@
 </head>
     <h:body style="background-color:powderblue;">
         <h1 align="center" > Calculadora Estadistica</h1>
+        <h2> Escriba los numeros separados por un punto y coma </h2>
         <h:form id="calculadora_form">
-            <h:panelGrid columns="2">
+            
                 
-                <h:inputText align="center" id="lista" type="text" binding="#{input}" />
+                <h:inputText  id="lista" type="text" binding="#{input}" />
                 <h:outputLabel value="Mode :" />
 		<h:outputLabel value="#{CalculadoraBean.mode}" />
                 <h:outputLabel value="Mean:" />
@@ -25,7 +26,7 @@
                 <h:commandButton value="Calculate"  update="calculadora_form" actionListener="#{CalculadoraBean.calculate(input.value)}"/>
                 <h:commandButton value="Restart" update="calculadora_form" actionListener="#{CalculadoraBean.restart}"/>
                 
-            </h:panelGrid>
+            
         </h:form>
         
     </h:body>
