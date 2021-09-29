@@ -1,4 +1,5 @@
 # Laboratorio-6 CVDS Integración contínua con CircleCI y Heroku
+Integrantes: David Perez Mejia, Nicolas Camacho Hurtado
 
 ## Badges
 
