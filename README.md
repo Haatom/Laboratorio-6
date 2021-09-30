@@ -7,3 +7,7 @@ Integrantes: David Perez Mejia, Nicolas Camacho Hurtado
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/23b1c5d8f3674b498126bed4addad132)](https://www.codacy.com/gh/Haatom/Laboratorio-6/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Haatom/Laboratorio-6&amp;utm_campaign=Badge_Grade)
 
+
+## Enlace aplicación
+
+https://lab06cvds2021.herokuapp.com/faces/CalculadoraBean.xhtml
